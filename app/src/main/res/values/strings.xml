@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">crop_final</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_graph">GraphActivity</string>
+    <string name="title_activity_cultivated_vsaffected">cultivatedVSaffected</string>
+    <string name="title_activity_years_vsproduction">yearsVSproduction</string>
+    <string name="title_activity_list_view_detail">ListViewDetail</string>
+    <string name="title_activity_forum">ForumActivity</string>
+    <string name="title_activity_feasibility">FeasibilityActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+</resources>
